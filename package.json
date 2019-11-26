@@ -11,5 +11,10 @@
     "url": "git@work:Aventador-lab/ws-tool.git"
   },
   "author": "",
-  "license": "ISC"
+  "license": "ISC",
+  "dependencies": {
+    "commander": "^4.0.1",
+    "os": "^0.1.1",
+    "shelljs": "^0.8.3"
+  }
 }
